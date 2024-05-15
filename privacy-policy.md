@@ -47,7 +47,3 @@ If you have any questions about this privacy policy, our data practices, or wish
 
 ## Changes to This Privacy Policy
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on this page. You are advised to review this privacy policy periodically for any changes. Changes to this privacy policy are effective when they are posted on this page.
-
----
-
-You can copy this privacy policy and host it on your website, blog, or any platform where you can generate a public URL. This URL can then be used in your Facebook app settings to comply with the requirements for moving your app to live mode.
